@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "Dictionary",
+      "messege": "The dictionary should be one of the most often used books in your home. (We'll allow room for sacred texts here.) Place the dictionary somewhere so that you can find it immediately and use it often. If you do your reading and homework in the kitchen and the dictionary is on a shelf in the den or bedroom, it's too tempting to say \"I'll look it up next time.\"",
+      "author": "Gaurav Singh",
+      "like": false
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Gaurav Singh"
+    },
+    {
+      "id": 2,
+      "name": "Ankit Singh"
+    },
+    {
+      "id": 3,
+      "name": "Hitesh Yadav"
+    },
+    {
+      "id": 4,
+      "name": "Deepak Kumar"
+    }
+  ]
+}
